@@ -1,0 +1,21 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/(auth)/login/page": "app/(auth)/login/page.js",
+  "/api/cases/[id]/lost-decision/route": "app/api/cases/[id]/lost-decision/route.js",
+  "/api/cases/[id]/lost-request/route": "app/api/cases/[id]/lost-request/route.js",
+  "/api/cases/[id]/status/route": "app/api/cases/[id]/status/route.js",
+  "/page": "app/page.js",
+  "/api/cases/export/route": "app/api/cases/export/route.js",
+  "/(dashboard)/email-escalations/page": "app/(dashboard)/email-escalations/page.js",
+  "/(dashboard)/reports/page": "app/(dashboard)/reports/page.js",
+  "/(dashboard)/settings/page": "app/(dashboard)/settings/page.js",
+  "/(dashboard)/sheet-imports/page": "app/(dashboard)/sheet-imports/page.js",
+  "/(dashboard)/dashboard/page": "app/(dashboard)/dashboard/page.js",
+  "/(dashboard)/cases/[case_id]/page": "app/(dashboard)/cases/[case_id]/page.js",
+  "/(dashboard)/clients/page": "app/(dashboard)/clients/page.js",
+  "/(dashboard)/cases/page": "app/(dashboard)/cases/page.js",
+  "/(dashboard)/pocs/page": "app/(dashboard)/pocs/page.js",
+  "/(dashboard)/lost-approval/page": "app/(dashboard)/lost-approval/page.js",
+  "/(dashboard)/lost-shipments/page": "app/(dashboard)/lost-shipments/page.js",
+  "/(dashboard)/users/page": "app/(dashboard)/users/page.js"
+}
